@@ -1,0 +1,41 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#131a24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- left terminal panel -->
+  <rect x="28" y="28" width="556" height="224" rx="12" fill="#161b22" stroke="#30363d"/>
+  <circle cx="52" cy="52" r="5" fill="#FF5F56"/>
+  <circle cx="70" cy="52" r="5" fill="#FFBD2E"/>
+  <circle cx="88" cy="52" r="5" fill="#27C93F"/>
+  <text x="52" y="96" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="15" fill="#8B949E">$ whoami</text>
+  <text x="52" y="128" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="26" font-weight="700" fill="#E6EDF3">Yagas Vashist</text>
+  <text x="52" y="156" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="16" fill="#A78BFA">Analytics Engineer + Applied ML</text>
+  <text x="52" y="180" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="14" fill="#8B949E">New Delhi, India</text>
+  <text x="52" y="216" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="13" fill="#8B949E">status: warehousing data, shipping</text>
+  <text x="52" y="234" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="13" fill="#8B949E">dashboards, breaking things on purpose</text>
+
+  <!-- right pipeline panel -->
+  <rect x="616" y="28" width="556" height="224" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="640" y="64" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="13" letter-spacing="2" fill="#8B949E">DATA_PIPELINE</text>
+  <text x="640" y="98" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="24" font-weight="700" fill="#A78BFA">INGEST &#8594; TEST &#8594; SHIP</text>
+
+  <!-- abstract pipeline graphic -->
+  <polyline points="640,190 690,160 740,175 790,130 840,148 890,110 940,132 990,95"
+            fill="none" stroke="#8B5CF6" stroke-width="2.5" opacity="0.8"/>
+  <circle cx="640" cy="190" r="4" fill="#A78BFA"/>
+  <circle cx="690" cy="160" r="4" fill="#A78BFA"/>
+  <circle cx="740" cy="175" r="4" fill="#A78BFA"/>
+  <circle cx="790" cy="130" r="4" fill="#A78BFA"/>
+  <circle cx="840" cy="148" r="4" fill="#A78BFA"/>
+  <circle cx="890" cy="110" r="4" fill="#A78BFA"/>
+  <circle cx="940" cy="132" r="4" fill="#A78BFA"/>
+  <circle cx="990" cy="95"  r="4" fill="#A78BFA"/>
+
+  <text x="640" y="216" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="13" fill="#8B949E">dbt models &#183; Power BI &#183; RAG agents &#183; XGBoost</text>
+  <text x="640" y="236" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="13" fill="#8B949E">16.8M rows warehoused &#183; 35 tests green</text>
+</svg>
