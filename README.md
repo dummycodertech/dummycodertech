@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://github.com/dummycodertech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=2600&amp;pause=700&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Hi%2C+I'm+Yagas+Vashist;Analytics+Engineer;Applied+ML+Builder;dbt+%2B+DuckDB+%2B+Power+BI;Learning+by+shipping%2C+testing%2C+and+fixing" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=2600&amp;pause=700&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Hi%2C+I'm+Yagas+Vashist;Analytics+Engineer;Applied+ML+Builder;ML+%2B+GenAI+%2B+Analysis;Learning+by+shipping%2C+testing%2C+and+fixing" alt="Typing introduction" />
 </a>
 
 <p>
